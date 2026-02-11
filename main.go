@@ -3,5 +3,9 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello World, Chào mừng đến Go")
+	name := "Thái"
+	age := 25
+
+	fmt.Println("Tên tôi là:", name)
+	fmt.Println("Tuổi là:", age)
 }
