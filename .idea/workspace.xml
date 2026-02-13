@@ -5,12 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7f62bb9-d0e2-4847-bb78-ec30d352d2c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/for.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if-else-1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if–else-if.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankaccount.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function-error.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function-login.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function-mutiple-value.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function-paramater.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function-value.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/method.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slice-product.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struct-function.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struct-product.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struct-user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struct.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if-else.go" beforeDir="false" afterPath="$PROJECT_DIR$/if-else.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +69,7 @@
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion"
   }
 }]]></component>
   <component name="SharedIndexes">
